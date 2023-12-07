@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy); 
+
+*,
+body,
+input,
+textarea {
+  font-family: 'Shrikhand';
+  font-size: 1.5rem;
+}
+
+body{
+    background-color: bisque;
+}
+
+.section-title {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+.about-company {
+  padding: 3em;
+  line-height: 1.7em;
+  text-align: center;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.about-carlos {
+  margin: 0 auto;
+  background-color: maroon;
+  padding: 3em;
+  line-height: 1.7em;
+  box-sizing: border-box;
+  color: bisque;
+  
+}
